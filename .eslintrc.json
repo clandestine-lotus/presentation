@@ -1,0 +1,24 @@
+{
+    "extends": "airbnb",
+    "plugins": [
+        "react", "meteor"
+    ],
+    "rules": {
+
+    // Core API
+    "meteor/globals": 2,
+    "meteor/core": 2,
+    "meteor/pubsub": 2,
+    "meteor/methods": 2,
+    "meteor/check": 2,
+    "meteor/connections": 2,
+    "meteor/collections": 2,
+
+    // Best Practices
+    "meteor/audit-argument-checks": 2,
+    "meteor/no-session": 2,
+    "meteor/no-blaze-lifecycle-assignment": 2,
+    "meteor/no-zero-timeout": 2,
+    "meteor/blaze-consistent-eventmap-params": 2,
+  }
+}
