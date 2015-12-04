@@ -1,0 +1,25 @@
+{
+  "name": "presenter",
+  "version": "1.0.0",
+  "description": "Presentation tools for the modern age",
+  "main": "server/",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clandestine-lotus/presentation.git"
+  },
+  "keywords": [
+    "slides",
+    "presenter"
+  ],
+  "author": "HR35",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clandestine-lotus/presentation/issues"
+  },
+  "homepage": "https://github.com/clandestine-lotus/presentation#readme"
+}
