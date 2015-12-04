@@ -1,7 +1,4 @@
 // must be exact version number
 {
-    "eslint-config-airbnb": "2.0.0",
-    "eslint-plugin-react": "3.11.2",
     "externalify": "0.1.0"
-
   }
