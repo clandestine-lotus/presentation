@@ -17,6 +17,3 @@ Prsntr.io is built in Javascript using React on the front end and Node on the ba
 
 ## MVP features
 The Minimum viable product will be a website where a user can log in with Google, choose one of her presentations and see it in full screen mode served by Prsntr.io's server.
-
-
-blabla
